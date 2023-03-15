@@ -1,4 +1,4 @@
-## eavesdrop
+## Eavesdrop
 **eavesdrop is a google hacking dork scraping and searching script**
 
 eavesdrop v1 is a script I made in python 3. With this tool, you can easily find Google eavesdrop. eavesdrop v1 collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots.
@@ -36,11 +36,12 @@ eavesdrop v1 is written for Python 3. Clone the git repository and install the r
 ****
 
 # Linux
-sudo git clone
+sudo git clone https://github.com/vishwachintu/eavesdrop
 
 cd eavesdrop folder
 
 pip3 install -r requirements.txt
+****
 
 # eavesdrop v1 Usage Linux
 
@@ -50,6 +51,8 @@ That’s all ..!
 Happy hacking :)
 ****
 
-Please find the list of dork commands from this article
+# Reference 
+
 https://hackr.io/blog/google-dorks-cheat-sheet
+
 https://www.stationx.net/google-dorks-cheat-sheet/
